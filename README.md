@@ -27,15 +27,6 @@ Needed parts:
 
 ![alt text](https://user-images.githubusercontent.com/68445659/93384816-2f064680-f81a-11ea-8cf8-060a21fabc8b.png)
 
-## Step 3: Assemble one of the side turning panel
-Needed parts: 
-- M3x12 screws x3
-- M3 nuts x3
-- 11mm copper pillar x2
-- M3x6 screws x2
-
-![alt text](https://user-images.githubusercontent.com/68445659/93384816-2f064680-f81a-11ea-8cf8-060a21fabc8b.png)
-
 ## Step 4: Assemble the bottom turning Servo
 Needed parts: 
 - M4x6 screws x4
