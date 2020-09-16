@@ -55,14 +55,6 @@ Needed parts:
 
 ![alt text](https://user-images.githubusercontent.com/68445659/93384828-30377380-f81a-11ea-98b0-ce8cc629c083.png)
 
-## Step 5: Assemble side panel with dual servo
-Needed parts: 
-- M3x10 screws x1
-- Small screws x4
-- Servo turning plate x1
-
-![alt text](https://user-images.githubusercontent.com/68445659/93384832-30d00a00-f81a-11ea-9f4c-2e5d2924db93.png)
-
 ## Step 6: Assemble elbow turning piece
 Needed parts: 
 - 20mm bronze pillar x2
@@ -90,21 +82,6 @@ Needed parts:
 - M4 Bearing with cap x1
 - M4 nut x1
 put the above screw through the bearing and nut
-
-- M4x8 screws x2
-- M4 nuts x2
-- M3x6 screws x2
-
-- Assembled dual servo piece from Step 5 x1 (note the bronze pillar in the graph is the bronze pillar you had on step 5)
-
-![alt text](https://user-images.githubusercontent.com/68445659/93384840-3299cd80-f81a-11ea-837f-bd6bf0beb5b4.png)
-
-## Step 8: Adding Turning base to Elbow piece
-Needed parts: 
-- M4x10 screw x1
-- M4 Bearing with cap x1
-- M4 nut x1
-put the above screw through the bearing and nutM3x
 
 - M4x8 screws x2
 - M4 nuts x2
